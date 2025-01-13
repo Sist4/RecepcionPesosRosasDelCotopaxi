@@ -1,0 +1,12 @@
+C:\Users\preci\Documents\Visual Studio 2022\Proyects\RecepcionPesosSerialServicioWindows\obj\Debug\RecepcionPesosSerialServicioWindows.csproj.AssemblyReference.cache
+C:\Users\preci\Documents\Visual Studio 2022\Proyects\RecepcionPesosSerialServicioWindows\obj\Debug\RecepcionPesosSerialServicioWindows.ProjectInstaller.resources
+C:\Users\preci\Documents\Visual Studio 2022\Proyects\RecepcionPesosSerialServicioWindows\obj\Debug\RecepcionPesosSerialServicioWindows.csproj.GenerateResource.cache
+C:\Users\preci\Documents\Visual Studio 2022\Proyects\RecepcionPesosSerialServicioWindows\obj\Debug\RecepcionPesosSerialServicioWindows.csproj.CoreCompileInputs.cache
+C:\Users\preci\Documents\Visual Studio 2022\Proyects\RecepcionPesosSerialServicioWindows\bin\Debug\RecepcionPesosSerialServicioWindows.exe.config
+C:\Users\preci\Documents\Visual Studio 2022\Proyects\RecepcionPesosSerialServicioWindows\bin\Debug\RecepcionPesosSerialServicioWindows.exe
+C:\Users\preci\Documents\Visual Studio 2022\Proyects\RecepcionPesosSerialServicioWindows\bin\Debug\RecepcionPesosSerialServicioWindows.pdb
+C:\Users\preci\Documents\Visual Studio 2022\Proyects\RecepcionPesosSerialServicioWindows\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\preci\Documents\Visual Studio 2022\Proyects\RecepcionPesosSerialServicioWindows\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\preci\Documents\Visual Studio 2022\Proyects\RecepcionPesosSerialServicioWindows\obj\Debug\Recepcio.201FFF9B.Up2Date
+C:\Users\preci\Documents\Visual Studio 2022\Proyects\RecepcionPesosSerialServicioWindows\obj\Debug\RecepcionPesosSerialServicioWindows.exe
+C:\Users\preci\Documents\Visual Studio 2022\Proyects\RecepcionPesosSerialServicioWindows\obj\Debug\RecepcionPesosSerialServicioWindows.pdb
