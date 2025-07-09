@@ -1,17 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\preci\\Documents\\Visual Studio 2022\\Proyects\\RecepcionPesosSerialServicioWindows\\",
+  "WorkspaceRootPath": "C:\\Users\\preci\\Documents\\GitHub\\RecepcionPesosRosasDelCotopaxi\\RecepcionPesosSerialServicioWindows\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9948A7AD-E29D-4833-9F1D-3F711B14D6EB}|RecepcionPesosSerialServicioWindows.csproj|c:\\users\\preci\\documents\\visual studio 2022\\proyects\\recepcionpesosserialserviciowindows\\recepcioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9948A7AD-E29D-4833-9F1D-3F711B14D6EB}|RecepcionPesosSerialServicioWindows.csproj|solutionrelative:recepcioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9948A7AD-E29D-4833-9F1D-3F711B14D6EB}|RecepcionPesosSerialServicioWindows.csproj|c:\\users\\preci\\documents\\visual studio 2022\\proyects\\recepcionpesosserialserviciowindows\\service1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9948A7AD-E29D-4833-9F1D-3F711B14D6EB}|RecepcionPesosSerialServicioWindows.csproj|C:\\Users\\preci\\Documents\\GitHub\\RecepcionPesosRosasDelCotopaxi\\RecepcionPesosSerialServicioWindows\\service1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9948A7AD-E29D-4833-9F1D-3F711B14D6EB}|RecepcionPesosSerialServicioWindows.csproj|solutionrelative:service1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9948A7AD-E29D-4833-9F1D-3F711B14D6EB}|RecepcionPesosSerialServicioWindows.csproj|C:\\Users\\preci\\Documents\\Visual Studio 2022\\Proyects\\RecepcionPesosSerialServicioWindows\\service1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{9948A7AD-E29D-4833-9F1D-3F711B14D6EB}|RecepcionPesosSerialServicioWindows.csproj|c:\\users\\preci\\documents\\github\\recepcionpesosrosasdelcotopaxi\\recepcionpesosserialserviciowindows\\recepcioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9948A7AD-E29D-4833-9F1D-3F711B14D6EB}|RecepcionPesosSerialServicioWindows.csproj|solutionrelative:recepcioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9948A7AD-E29D-4833-9F1D-3F711B14D6EB}|RecepcionPesosSerialServicioWindows.csproj|C:\\Users\\preci\\Documents\\GitHub\\RecepcionPesosRosasDelCotopaxi\\RecepcionPesosSerialServicioWindows\\service1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{9948A7AD-E29D-4833-9F1D-3F711B14D6EB}|RecepcionPesosSerialServicioWindows.csproj|solutionrelative:service1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,11 +54,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "RecepcionController.cs",
-              "DocumentMoniker": "C:\\Users\\preci\\Documents\\Visual Studio 2022\\Proyects\\RecepcionPesosSerialServicioWindows\\RecepcionController.cs",
+              "DocumentMoniker": "C:\\Users\\preci\\Documents\\GitHub\\RecepcionPesosRosasDelCotopaxi\\RecepcionPesosSerialServicioWindows\\RecepcionController.cs",
               "RelativeDocumentMoniker": "RecepcionController.cs",
-              "ToolTip": "C:\\Users\\preci\\Documents\\Visual Studio 2022\\Proyects\\RecepcionPesosSerialServicioWindows\\RecepcionController.cs",
+              "ToolTip": "C:\\Users\\preci\\Documents\\GitHub\\RecepcionPesosRosasDelCotopaxi\\RecepcionPesosSerialServicioWindows\\RecepcionController.cs",
               "RelativeToolTip": "RecepcionController.cs",
               "ViewState": "AgIAAGIAAAAAAAAAAAAcwHYAAABJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -67,13 +67,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Service1.cs",
-              "DocumentMoniker": "C:\\Users\\preci\\Documents\\Visual Studio 2022\\Proyects\\RecepcionPesosSerialServicioWindows\\Service1.cs",
+              "DocumentMoniker": "C:\\Users\\preci\\Documents\\GitHub\\RecepcionPesosRosasDelCotopaxi\\RecepcionPesosSerialServicioWindows\\Service1.cs",
               "RelativeDocumentMoniker": "Service1.cs",
-              "ToolTip": "C:\\Users\\preci\\Documents\\Visual Studio 2022\\Proyects\\RecepcionPesosSerialServicioWindows\\Service1.cs",
+              "ToolTip": "C:\\Users\\preci\\Documents\\GitHub\\RecepcionPesosRosasDelCotopaxi\\RecepcionPesosSerialServicioWindows\\Service1.cs",
               "RelativeToolTip": "Service1.cs",
-              "ViewState": "AgIAAC4AAAAAAAAAAAAcwCIAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAC4AAAAAAAAAAAA2wCIAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-26T15:34:47.951Z",
               "EditorCaption": ""
@@ -82,9 +82,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Service1.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\preci\\Documents\\Visual Studio 2022\\Proyects\\RecepcionPesosSerialServicioWindows\\Service1.cs",
+              "DocumentMoniker": "C:\\Users\\preci\\Documents\\GitHub\\RecepcionPesosRosasDelCotopaxi\\RecepcionPesosSerialServicioWindows\\Service1.cs",
               "RelativeDocumentMoniker": "Service1.cs",
-              "ToolTip": "C:\\Users\\preci\\Documents\\Visual Studio 2022\\Proyects\\RecepcionPesosSerialServicioWindows\\Service1.cs [Dise\u00F1o]",
+              "ToolTip": "C:\\Users\\preci\\Documents\\GitHub\\RecepcionPesosRosasDelCotopaxi\\RecepcionPesosSerialServicioWindows\\Service1.cs [Dise\u00F1o]",
               "RelativeToolTip": "Service1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-26T15:32:34.31Z",
